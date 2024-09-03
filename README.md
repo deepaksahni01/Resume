@@ -1,2 +1,2 @@
 # Resume
-My resume from completed Web Development Course
+My resume from completed by using only HTML 
